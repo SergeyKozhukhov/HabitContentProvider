@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="create_table_habits" translatable="false">
+        <![CDATA[
+        CREATE TABLE habits (id INTEGER PRIMARY KEY AUTOINCREMENT, title VARCHAR, description VARCHAR)
+        ]]>
+    </string>
+
+
+</resources>

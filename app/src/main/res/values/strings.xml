@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HabitContentProvider</string>
+    <string name="insert_success_toast">success</string>
+    <string name="test_load_1">id:</string>
+    <string name="test_load_2">, title:</string>
+    <string name="test_load_3">, description:</string>
+    <string name="title_text_view">title</string>
+    <string name="description_text_view">description</string>
+    <string name="insert_button">insert</string>
+    <string name="content_resolver_insert_button">content resolver: insert</string>
+    <string name="content_resolver_load_button">content resolver: load</string>
+</resources>
