@@ -4,9 +4,8 @@
 
     <permission
         android:name="ru.sergeykozhukhov.habitcontentprovider.PERMISSION"
-        android:label="label"
-        android:permissionGroup="android.permission-group.WORK_DATABASE"
-        android:protectionLevel="dangerous"/>
+        android:label="permission for read"
+        android:protectionLevel="normal"/>
 
     <application
         android:name=".pattern.HabitsApplication"
