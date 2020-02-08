@@ -4,7 +4,7 @@
 
 Приложение, позволяющее добавлять описание привычек в базу данных.
 На основе этого приложения демонстрируется работа с ContentProvider и ContentResolver (в рамках данного приложения и стороннего).
-Пример подключения стороннего приложения представлен в [HabitContentResolver](https://github.com/SergeyKozhukhov/HabitContentResolver)
+Пример подключения стороннего приложения представлен в [HabitContentResolver](https://github.com/SergeyKozhukhov/HabitContentResolver).
 
 ### [ФУНКЦИИ]
 
@@ -34,7 +34,8 @@
 В программу следует добавить:
 
 - больше операций для работы с ContentProvider;
-- более качественный подход в организации архитектуры (загрузка данных через ContentResolver).
+- более качественный подход в организации архитектуры (загрузка данных через ContentResolver);
+- более грамотную организацию вывода описания привычек.
 
 ### [ПРИМЕР РАБОТЫ ПРИЛОЖЕНИЯ]
 
@@ -42,6 +43,14 @@
 
 ![Image alt](/scr/01_01.jpg)
 
-1. Вывод записей.
+2. Вывод записей.
 
 ![Image alt](/scr/01_02.jpg)
+
+
+### [ССЫЛКИ]
+
+Полезные ссылки:
+
+- https://skillberg.com/courses/android/lessons/sozdayom-contentprovider-dlya-vzaimodeystviya-s-bd-zametok/#auth-modal
+- https://github.com/GeorgioSafo/employee_content_provider
